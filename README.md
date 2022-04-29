@@ -6,6 +6,7 @@ SMC CS Club Tic Tac Toe game written in JavaScript!
 - Matthew/Madeline Schneider
 - Amir Movahedi
 - James: figuring out how to do this.
+- Dustin Pranata WAngsawidjaja
 
 ## this is a cool change
 
